@@ -1,5 +1,9 @@
 .card__title {
     max-width: 413px;
+    margin: 0;
+    font-size: 20px;
+    font-weight: 500;
+    color: #212121;
 }
 
 .card__image {
