@@ -23,5 +23,5 @@ This webpage is deployed using **GitHub Pages**:
 
 👉 https://tlamari1.github.io/se_project_spots/
 
-## 🎥 Project Video  https://www.loom.com/share/e0f0fac545cd4dc2bf33697b3dc70651
+## 🎥 Project Video https://www.loom.com/share/a6c6144bfc6944429b111fefcef0318f
 
