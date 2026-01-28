@@ -1,19 +1,27 @@
-# Spots
-
-An image sharing site.
+# Image Sharing Site Spots
 
 ## Description
 
-TODO - Describe the project and its Functionality.
+This project is a responsive image sharing webpage that allows users to view and interact with a collection of images. The layout adapts to different screen sizes, providing a clean and accessible experience on desktop, tablet, and mobile devices. The project focuses on practicing modern HTML and CSS techniques, including responsive design principles.
+
+## Functionality
+
+- Displays a gallery of images
+- Responsive layout for different screen sizes
+- Clean and simple user interface
+- Optimized for desktop and mobile viewing
 
 ## Tech Stack
 
--HTML
--CSS
--Responsive Design
+- HTML
+- CSS
+- Responsive Design
 
-## Deployment 
+## Deployment
 
-This webpage is deployed to Github Pages
+This webpage is deployed using **GitHub Pages**:
 
-https://tlamari1.github.io/se_project_spots
+👉 https://tlamari1.github.io/se_project_spots/
+
+## 🎥 Project Video  https://www.loom.com/share/e0f0fac545cd4dc2bf33697b3dc70651
+
